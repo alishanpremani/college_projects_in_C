@@ -1,0 +1,43 @@
+Student with ID 11111 added in the record!
+
+Student with ID 11112 added in the record!
+
+Student with ID 11113 added in the record!
+
+Student Name: Pepper Kitty
+Student ID: 11113
+Student Address: Billington 101
+Student Flex: $145.32
+
+Student Name: Brown Bug
+Student ID: 11112
+Student Address: Upton 203
+Student Flex: $214.21
+
+Student Name: Boomer Dog
+Student ID: 11111
+Student Address: Upton 203
+Student Flex: $2354.21
+
+Student Name: Brown Bug
+Student ID: 11112
+Student Address: Upton 203
+Student Flex: $214.21
+
+Student flex for 11111 increased by $100.00.
+
+Error: The student is not in the list!
+
+Student flex for 11112 reduced by $5.00.
+
+Successfully deleted record for student with ID 11111!
+
+Successfully deleted record for student with ID 11112!
+
+Student Name: Pepper Kitty
+Student ID: 11113
+Student Address: Billington 101
+Student Flex: $145.32
+
+The number of students in the record is 1.
+
